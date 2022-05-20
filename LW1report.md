@@ -61,3 +61,4 @@ int main() //головная программа
 
 ### -Результат работы программы:
 
+![image](https://user-images.githubusercontent.com/100388979/169489893-acad2225-c1d7-4c38-8e09-132c438f6edf.png)
